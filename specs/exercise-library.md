@@ -134,7 +134,7 @@ Target for production: hundreds of exercises.
 
 ### 4. Sort Control
 - Default sort: alphabetical by name (no active filter or search)
-- When filter active: sort by muscle group, then name
+- When filter active: sort by muscle group, then name, active filter(s) are at the top of the list, primary first, secondary second, alphabetical
 - User-accessible sort options: Name (A–Z), Muscle Group, Difficulty, Type
 
 ### 5. Exercise Detail Drawer
